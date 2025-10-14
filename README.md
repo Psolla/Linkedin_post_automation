@@ -17,7 +17,7 @@ Este projeto tem como objetivo fazer login no LinkedIn e automatizar o processo 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/post_linkedin.git
+git clone https://github.com/pedrosolla/post_linkedin.git
 cd post_linkedin
 ```
 2. Crie e ative o ambiente virtual:
