@@ -6,7 +6,7 @@ Automação de ponta a ponta (E2E) para publicar posts no LinkedIn usando Python
 
 Este projeto automatiza todo o fluxo de publicação de um post no LinkedIn: abre o navegador, faz login, cria o post, define a privacidade, publica e salva uma captura de tela como evidência.
 
-Foi o meu primeiro projeto de automação web. Nele pratiquei os fundamentos usados em automação de testes: localização de elementos, esperas, validação de estado e geração de evidências.
+Foi um dos meus primeiros projetos de automação web. Nele pratiquei os fundamentos usados em automação de testes: localização de elementos, esperas, validação de estado e geração de evidências.
 
 ## Como funciona
 
